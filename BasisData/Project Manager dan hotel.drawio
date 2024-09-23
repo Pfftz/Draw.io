@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="U_-ThSBGukp351-MsQGF">
-    <mxGraphModel dx="1466" dy="874" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2143" dy="1277" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,6 +312,18 @@
         </mxCell>
         <mxCell id="8yiLDPME0U-5GVnbeEcH-111" value="M" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1449" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8yiLDPME0U-5GVnbeEcH-112" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Project Management System&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="341" y="500" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8yiLDPME0U-5GVnbeEcH-113" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Hotel Reservation System&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="550" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8yiLDPME0U-5GVnbeEcH-114" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Abdulhadi Muntashir&lt;/h1&gt;&lt;p&gt;NIM: 3337230041&lt;/p&gt;&lt;p&gt;Kelas: B&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="944" width="252" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8yiLDPME0U-5GVnbeEcH-115" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="658" y="904" width="192" height="192" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
